@@ -1,0 +1,2 @@
+[appserver]
+35.160.186.73  ansible_user=ubuntu 
